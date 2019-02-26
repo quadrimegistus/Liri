@@ -1,0 +1,948 @@
+**********************************************************
+
+concert-this muse, 
+
+Artist: muse
+
+Venue: Talking Stick Resort Arena
+
+Venue Location: Phoenix
+
+Date: Feb 2nd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Vivint Smart Home Arena
+
+Venue Location: Salt Lake City
+
+Date: Feb 4th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Golden 1 Center
+
+Venue Location: Sacramento
+
+Date: Mar 4th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Pechanga Arena San Diego
+
+Venue Location: San Diego
+
+Date: Mar 2nd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Mandalay Bay Events Center
+
+Venue Location: Las Vegas
+
+Date: Mar 6th 12:00 am
+
+ 
+
+Artist: muse
+
+Venue: Oracle Arena
+
+Venue Location: Oakland
+
+Date: Mar 6th 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: The Forum
+
+Venue Location: Los Angeles
+
+Date: Mar 1st 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Circuit Of the Americas
+
+Venue Location: Austin
+
+Date: Mar 6th 12:00 am
+
+ 
+
+Artist: muse
+
+Venue: Scotiabank Arena
+
+Venue Location: Toronto
+
+Date: Mar 4th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: BB&T Center
+
+Venue Location: Sunrise
+
+Date: Mar 0th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: State Farm Arena
+
+Venue Location: Atlanta
+
+Date: Mar 2nd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Bell Centre
+
+Venue Location: Montreal
+
+Date: Mar 6th 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Videotron Centre
+
+Venue Location: Ville De Québec
+
+Date: Mar 0th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Little Caesars Arena
+
+Venue Location: Detroit
+
+Date: Apr 4th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Wells Fargo Center
+
+Venue Location: Philadelphia
+
+Date: Apr 0th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Capital One Arena
+
+Venue Location: Washington
+
+Date: Apr 2nd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: TD Garden
+
+Venue Location: Boston
+
+Date: Apr 3rd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Madison Square Garden
+
+Venue Location: New York
+
+Date: Apr 1st 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Letiště Praha Letňany
+
+Venue Location: Praha
+
+Date: May 0th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: United Center
+
+Venue Location: Chicago
+
+Date: Apr 5th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: London Stadium U K
+
+Venue Location: London
+
+Date: Jun 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Papp Laszlo Sports Arena
+
+Venue Location: Budapest
+
+Date: May 2nd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Etihad Stadium
+
+Venue Location: Manchester
+
+Date: Jun 6th 05:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Ashton Gate
+
+Venue Location: Bristol
+
+Date: Jun 3rd 05:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Stadthalle Graz
+
+Venue Location: Graz
+
+Date: May 3rd 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Arēna Rīga
+
+Venue Location: Rīga
+
+Date: Jun 3rd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Luzhniki Stadium
+
+Venue Location: Moskva
+
+Date: Jun 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Suvilahti
+
+Venue Location: Helsinki
+
+Date: Jun 2nd 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Goffertpark
+
+Venue Location: Nijmegen
+
+Date: Jun 4th 05:30 pm
+
+ 
+
+Artist: muse
+
+Venue: RheinEnergieSTADION
+
+Venue Location: Köln
+
+Date: Jun 6th 06:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Festivalpark Werchter
+
+Venue Location: Werchter
+
+Date: Jun 0th 12:00 am
+
+ 
+
+Artist: muse
+
+Venue: Tauron Arena
+
+Venue Location: Kraków
+
+Date: Jun 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Hallenstadion
+
+Venue Location: Zürich
+
+Date: Jul 3rd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Stade de France
+
+Venue Location: Paris
+
+Date: Jul 5th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Stade de France
+
+Venue Location: Paris
+
+Date: Jul 6th 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Orange Vélodrome
+
+Venue Location: Marseille
+
+Date: Jul 2nd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: San Siro Stadium
+
+Venue Location: Milan
+
+Date: Jul 5th 08:45 pm
+
+ 
+
+Artist: muse
+
+Venue: San Siro Stadium
+
+Venue Location: Milano
+
+Date: Jul 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Matmut Atlantique
+
+Venue Location: Bordeaux
+
+Date: Jul 2nd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Passeio Maritimo de Alges
+
+Venue Location: Lisbon
+
+Date: Jul 3rd 12:00 am
+
+ 
+
+Artist: muse
+
+Venue: Stadio Olimpico
+
+Venue Location: Rome
+
+Date: Jul 6th 09:00 pm
+
+ 
+
+Artist: muse
+
+Venue: The Formula 1 Singapore Grand Prix
+
+Venue Location: Singapore
+
+Date: Sep 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6]
+
+Venue Location: Rio De Janeiro
+
+Date: Oct 0th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Wanda Metropolitano Stadium
+
+Venue Location: Madrid
+
+Date: Jul 5th 07:00 pm
+
+ 
+
+ 
+
+spotify-this-song reaching out, 
+
+Track 2
+
+Artist(s): Ricky Smith
+
+Track name: Reaching Out
+
+Album: Release
+
+Preview URL: https://p.scdn.co/mp3-preview/067af9ebdcfeb8a47534a26f77adf21e993ece0c?cid=030cafb18317422f9d125b0452f17890
+
+_______________________________________________________
+
+Track 1
+
+Artist(s): Bassnectar
+
+Track name: Reaching Out
+
+Album: Unlimited
+
+Preview URL: https://p.scdn.co/mp3-preview/d9b51a78a78ba661d6632c4ce984fcad7e68ab15?cid=030cafb18317422f9d125b0452f17890
+
+_______________________________________________________
+
+ 
+
+concert-this muse, 
+
+Artist: muse
+
+Venue: Talking Stick Resort Arena
+
+Venue Location: Phoenix
+
+Date: Feb 2nd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Vivint Smart Home Arena
+
+Venue Location: Salt Lake City
+
+Date: Feb 4th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Mandalay Bay Events Center
+
+Venue Location: Las Vegas
+
+Date: Mar 6th 12:00 am
+
+ 
+
+Artist: muse
+
+Venue: Pechanga Arena San Diego
+
+Venue Location: San Diego
+
+Date: Mar 2nd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Oracle Arena
+
+Venue Location: Oakland
+
+Date: Mar 6th 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: The Forum
+
+Venue Location: Los Angeles
+
+Date: Mar 1st 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Golden 1 Center
+
+Venue Location: Sacramento
+
+Date: Mar 4th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Circuit Of the Americas
+
+Venue Location: Austin
+
+Date: Mar 6th 12:00 am
+
+ 
+
+Artist: muse
+
+Venue: BB&T Center
+
+Venue Location: Sunrise
+
+Date: Mar 0th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: State Farm Arena
+
+Venue Location: Atlanta
+
+Date: Mar 2nd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Bell Centre
+
+Venue Location: Montreal
+
+Date: Mar 6th 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Scotiabank Arena
+
+Venue Location: Toronto
+
+Date: Mar 4th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Capital One Arena
+
+Venue Location: Washington
+
+Date: Apr 2nd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Videotron Centre
+
+Venue Location: Ville De Québec
+
+Date: Mar 0th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Wells Fargo Center
+
+Venue Location: Philadelphia
+
+Date: Apr 0th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Madison Square Garden
+
+Venue Location: New York
+
+Date: Apr 1st 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: TD Garden
+
+Venue Location: Boston
+
+Date: Apr 3rd 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Little Caesars Arena
+
+Venue Location: Detroit
+
+Date: Apr 4th 07:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Letiště Praha Letňany
+
+Venue Location: Praha
+
+Date: May 0th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Papp Laszlo Sports Arena
+
+Venue Location: Budapest
+
+Date: May 2nd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Stadthalle Graz
+
+Venue Location: Graz
+
+Date: May 3rd 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: United Center
+
+Venue Location: Chicago
+
+Date: Apr 5th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: London Stadium U K
+
+Venue Location: London
+
+Date: Jun 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Ashton Gate
+
+Venue Location: Bristol
+
+Date: Jun 3rd 05:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Etihad Stadium
+
+Venue Location: Manchester
+
+Date: Jun 6th 05:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Luzhniki Stadium
+
+Venue Location: Moskva
+
+Date: Jun 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Suvilahti
+
+Venue Location: Helsinki
+
+Date: Jun 2nd 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Tauron Arena
+
+Venue Location: Kraków
+
+Date: Jun 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Arēna Rīga
+
+Venue Location: Rīga
+
+Date: Jun 3rd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Goffertpark
+
+Venue Location: Nijmegen
+
+Date: Jun 4th 05:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Festivalpark Werchter
+
+Venue Location: Werchter
+
+Date: Jun 0th 12:00 am
+
+ 
+
+Artist: muse
+
+Venue: Hallenstadion
+
+Venue Location: Zürich
+
+Date: Jul 3rd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: RheinEnergieSTADION
+
+Venue Location: Köln
+
+Date: Jun 6th 06:30 pm
+
+ 
+
+Artist: muse
+
+Venue: Orange Vélodrome
+
+Venue Location: Marseille
+
+Date: Jul 2nd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Stade de France
+
+Venue Location: Paris
+
+Date: Jul 5th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: San Siro Stadium
+
+Venue Location: Milan
+
+Date: Jul 5th 08:45 pm
+
+ 
+
+Artist: muse
+
+Venue: Stade de France
+
+Venue Location: Paris
+
+Date: Jul 6th 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: San Siro Stadium
+
+Venue Location: Milano
+
+Date: Jul 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Stadio Olimpico
+
+Venue Location: Rome
+
+Date: Jul 6th 09:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Matmut Atlantique
+
+Venue Location: Bordeaux
+
+Date: Jul 2nd 08:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Passeio Maritimo de Alges
+
+Venue Location: Lisbon
+
+Date: Jul 3rd 12:00 am
+
+ 
+
+Artist: muse
+
+Venue: The Formula 1 Singapore Grand Prix
+
+Venue Location: Singapore
+
+Date: Sep 6th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Wanda Metropolitano Stadium
+
+Venue Location: Madrid
+
+Date: Jul 5th 07:00 pm
+
+ 
+
+Artist: muse
+
+Venue: Rock in Rio Brasil [9.27 - 9.29 / 10.3 - 10.6]
+
+Venue Location: Rio De Janeiro
+
+Date: Oct 0th 07:00 pm
+
+ 
+
+ 
+
+spotify-this-song Endlessly, 
+
+Track 1
+
+Artist(s): The Cab
+
+Track name: Endlessly
+
+Album: Symphony Soldier
+
+Preview URL: No preview available
+
+_______________________________________________________
+
+Track 2
+
+Artist(s): Muse
+
+Track name: Endlessly
+
+Album: Absolution
+
+Preview URL: https://p.scdn.co/mp3-preview/1d87137f3ce2162d6dc4bcb2ade949dab2bde465?cid=030cafb18317422f9d125b0452f17890
+
+_______________________________________________________
+
+ 
+
+movie-this amelie, 
+

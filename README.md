@@ -1,4 +1,4 @@
-# unpolished
+# LIRI
 LIRI is a Language Interpretation and Recognition Interface Nodejs application that takes in user porivded search parameters and returns relevant data based on publicly accessible API's.
 
 **COMPLETED** and functioning product screenshots are located in the corresponding folder of the same name.
@@ -27,7 +27,7 @@ node liri.js movie-this "Movie Name" (This returns information from OMDB regardi
 
 node liri.js do-what-it-says (Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's corresponding commands.)
 
-
+**#unpolished**
 **#TODO**
 
 1) Create a visual, front-end counterpart.

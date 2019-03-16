@@ -6,13 +6,13 @@ LIRI is a Language Interpretation and Recognition Interface Nodejs application t
 
 For the application to run on your device you will need to clone the repository and install the following Node modules:
 
-Axios
+[Axios](https://www.npmjs.com/package/axios)
 
-Moment
+[Moment](http://momentjs.com/docs/)
 
-Env
+[Dotenv](https://www.npmjs.com/package/dotenv)
 
-Node-Spotify-API
+[Node-Spotify-API](https://www.npmjs.com/package/node-spotify-api)
 
   You will also need to provide your own Spotify API key
   
@@ -27,10 +27,6 @@ node liri.js movie-this "Movie Name" (This returns information from OMDB regardi
 
 node liri.js do-what-it-says (Using the fs Node package, LIRI will take the text inside of random.txt and then use it to call one of LIRI's corresponding commands.)
 
-**#unpolished**
+[Beginner's Guide to Node](https://blog.codeship.com/node-js-tutorial/)
 
-**#TODO**
-
-1) Create a visual, front-end counterpart.
-
-2) Incorporate other search metrics, ie local weather, directions, etc.
+[File System Documentation](https://nodejs.org/api/fs.html)

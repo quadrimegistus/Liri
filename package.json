@@ -1,1 +1,24 @@
-
+{
+  "name": "liri",
+  "version": "1.0.0",
+  "description": "LIRI is a Language Interpretation and Recognition Interface Nodejs application that takes in user porivded search parameters and returns relevant data based on publicly accessible API's.",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parallelam/Liri.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parallelam/Liri/issues"
+  },
+  "homepage": "https://github.com/parallelam/Liri#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "node-spotify-api": "^1.1.1"
+  }
+}
